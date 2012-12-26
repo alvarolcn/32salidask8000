@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity version="2.0.0.9" name="Belen0809.exe" publicKeyToken="743ffaabf7a8fe61" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="cruz.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Belen0809" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Belen0809.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- Opciones del manifiesto de Control de cuentas de usuario
+             Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el 
+             nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Si desea utilizar la virtualización de archivos y del Registro para la compatibilidad 
+            con versiones anteriores, elimine el nodo requestedExecutionLevel.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="stdole" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.MediaPlayer.dll" size="53248">
+      <assemblyIdentity name="AxInterop.MediaPlayer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ofBfrmCr/sjHSCSJM/7iKBvY5s4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.WMPLib.dll" size="49152">
+      <assemblyIdentity name="AxInterop.WMPLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>F/vZPnUtnPDeKVqK81zW0M+ODyc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Belen0809.exe" size="958464">
+      <assemblyIdentity name="Belen0809" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ddQR8wuSiJrnldoHUhAbOKBYF3c=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.MediaPlayer.dll" size="86016">
+      <assemblyIdentity name="Interop.MediaPlayer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>S4qDJ+o6692M3m/brLLKMn9ZB7w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.WMPLib.dll" size="274432">
+      <assemblyIdentity name="Interop.WMPLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>n8diRwEsJKo7v+zwD9FN/u3wXNY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="cruz.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>UxHx2JSysUggRzYGFS9DO0ZOtrs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=2BE5A373FECD48B\Alvaro" issuerKeyHash="8d91db900db14ee56424a91f5d5d8a49bbabb31a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>qSsWjcGY7QuRuM81yveUYMT9XJg=</DigestValue></Reference></SignedInfo><SignatureValue>PpHu1j0+6p8czWk3QJLp5LN1beu0dB6FIgjUdUDAlzpIpq87FsnGMt5wSUwdxBmkf9L700wQsvn+ew9U2N4OR/HAxDOhCT8mIx0r5VvqBWNXwWpNa+T8Y+6wr4iGcC8UNTBcKEtr0+wnTGjE39dBnNJ8v9j0dI5yX0BaPC49cXU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>sw2eg/ODzzh9CkvzvIlJJ4B7DKJrWQxefttolbwYmnR6m7vvzbLJUM0mEXkAUYa2eOrkUpIAoNm+6Vu07jOGiin7z0YJ/RTJSu0PtZ1J6EtGpqMJV/jnVJZjxv7Yde5nni5lJ4CMYQJKI4Ce4G6ke4BgwjMSxobnPNA7fXLVpVE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="985cfdc46094f7ca35cfb8910bed98c18d162ba9" Description="" Url=""><as:assemblyIdentity version="2.0.0.9" name="Belen0809.exe" publicKeyToken="743ffaabf7a8fe61" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=2BE5A373FECD48B\Alvaro</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>GZWEhZV7hUNhzgSJ5kDmoKsGfio=</DigestValue></Reference></SignedInfo><SignatureValue>LEBJ0147m4cL3yuuNcvZcBZJ34tPtTeM/eSUGgKaXCKFA6wvKGyo0nXB0M/AUwAlaxCUtWniM6BoxK4byOZ+j1fpFO4LtuFsbuaatUYK8TVNa++GMHUJQEQ8o5EQpBaV1nwIjN2x12AUhai1IW9+g+vRiZP1Fs4RUO+7hoPBY+E=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>sw2eg/ODzzh9CkvzvIlJJ4B7DKJrWQxefttolbwYmnR6m7vvzbLJUM0mEXkAUYa2eOrkUpIAoNm+6Vu07jOGiin7z0YJ/RTJSu0PtZ1J6EtGpqMJV/jnVJZjxv7Yde5nni5lJ4CMYQJKI4Ce4G6ke4BgwjMSxobnPNA7fXLVpVE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVagAwIBAgIQVrLm23EZTptOILQEO2EqiTAJBgUrDgMCHQUAMDcxNTAzBgNVBAMeLAAyAEIARQA1AEEAMwA3ADMARgBFAEMARAA0ADgAQgBcAEEAbAB2AGEAcgBvMB4XDTEyMTIyNjEzMDMwMFoXDTEzMTIyNjE5MDMwMFowNzE1MDMGA1UEAx4sADIAQgBFADUAQQAzADcAMwBGAEUAQwBEADQAOABCAFwAQQBsAHYAYQByAG8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALMNnoPzg884fQpL87yJSSeAewyia1kMXn7baJW8GJp0epu7782yyVDNJhF5AFGGtnjq5FKSAKDZvulbtO4zhoop+89GCf0UyUrtD7WdSehLRqajCVf451SWY8b+2HXuZ54uZSeAjGECSiOAnuBupHuAYMIzEsaG5zzQO31y1aVRAgMBAAEwCQYFKw4DAh0FAAOBgQCfE3SoHkV86jsHutbihzHh0Gzv6lRATylj+lqbYQhuG7YBvjDAIXZCfmn5j4Lvdctlm0Ly3fj7ur1LlVKPayPBgyecNyg0l1YVbUp/Cb8UwPA6N+owLWSBAed83eFLM1oLKCudPaWWKHlgaijfxdArLvHg29Vf/qM/W5hNhY0y0A==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

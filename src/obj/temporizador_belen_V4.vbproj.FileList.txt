@@ -1,0 +1,35 @@
+bin\Belen0809.exe.manifest
+bin\Belen0809.application
+bin\Belen0809.exe
+bin\Control Luces Belen.xml
+bin\Interop.MediaPlayer.dll
+bin\Interop.WMPLib.dll
+bin\AxInterop.MediaPlayer.dll
+bin\AxInterop.WMPLib.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Interop.MediaPlayer.dll
+obj\Release\Interop.WMPLib.dll
+obj\Release\AxInterop.MediaPlayer.dll
+obj\Release\AxInterop.WMPLib.dll
+obj\Release\temporizador_belen_V4.vbproj.ResolveComReference.cache
+obj\Release\Belen.Resources.resources
+obj\Release\Belen.temporizador_belen.resources
+obj\Release\temporizador_belen_V4.vbproj.GenerateResource.Cache
+obj\Release\Belen0809.exe.manifest
+obj\Release\Belen0809.application
+obj\Release\Belen0809.exe
+obj\Release\Control Luces Belen.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.MediaPlayer.dll
+obj\Debug\Interop.WMPLib.dll
+obj\Debug\AxInterop.MediaPlayer.dll
+obj\Debug\AxInterop.WMPLib.dll
+obj\Debug\temporizador_belen_V4.vbproj.ResolveComReference.cache
+obj\Debug\Belen.Resources.resources
+obj\Debug\Belen.temporizador_belen.resources
+obj\Debug\temporizador_belen_V4.vbproj.GenerateResource.Cache
+obj\Debug\Belen0809.exe.manifest
+obj\Debug\Belen0809.application
+obj\Debug\Belen0809.exe
+obj\Debug\Control Luces Belen.xml
+obj\Debug\Belen0809.pdb

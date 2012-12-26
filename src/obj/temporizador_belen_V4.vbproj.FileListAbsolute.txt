@@ -1,0 +1,35 @@
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\bin\Belen0809.exe.manifest
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\bin\Belen0809.application
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\bin\Belen0809.exe
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\bin\Control Luces Belen.xml
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\bin\Interop.MediaPlayer.dll
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\bin\Interop.WMPLib.dll
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\bin\AxInterop.MediaPlayer.dll
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\bin\AxInterop.WMPLib.dll
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Debug\Interop.MediaPlayer.dll
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Debug\AxInterop.MediaPlayer.dll
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Debug\temporizador_belen_V4.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Debug\Belen.Resources.resources
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Debug\Belen.temporizador_belen.resources
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Debug\temporizador_belen_V4.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Debug\Belen0809.exe.manifest
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Debug\Belen0809.application
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Debug\Belen0809.exe
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Debug\Control Luces Belen.xml
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Debug\Belen0809.pdb
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Release\Interop.MediaPlayer.dll
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Release\AxInterop.MediaPlayer.dll
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Release\AxInterop.WMPLib.dll
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Release\temporizador_belen_V4.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Release\Belen.Resources.resources
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Release\Belen.temporizador_belen.resources
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Release\temporizador_belen_V4.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Release\Belen0809.exe.manifest
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Release\Belen0809.application
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Release\Belen0809.exe
+C:\Documents and Settings\Alvaro\Escritorio\K8000-32salidas\obj\Release\Control Luces Belen.xml

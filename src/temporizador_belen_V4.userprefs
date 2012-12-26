@@ -1,0 +1,24 @@
+﻿<UserCombinePreferences version="1.0" filename="/media/DATOS/programa belen/Nueva version 32 salidas/temporizador_belen_V4.sln">
+  <Files>
+    <File name="Bienvenido" />
+    <File name="k8000.vb" line="1" column="1" />
+    <File name="temporizador_belen_V4.vb" line="6" column="13" />
+    <File name="temporizador_belen_V4.Designer.vb" line="9" column="52" />
+  </Files>
+  <Views>
+    <ViewMemento id="ProjectPad">
+      <Node expanded="True">
+        <Node name="temporizador_belen_V4" expanded="True">
+          <Node name="temporizador_belen_V4.vb" selected="True" />
+        </Node>
+      </Node>
+    </ViewMemento>
+    <ViewMemento id="ClassPad">
+      <Node expanded="True" />
+    </ViewMemento>
+  </Views>
+  <Properties>
+    <Property key="ActiveWindow" value="/media/DATOS/programa belen/Nueva version 32 salidas/temporizador_belen_V4.vb" />
+    <Property key="ActiveConfiguration" value="Debug|Any CPU" />
+  </Properties>
+</UserCombinePreferences>
